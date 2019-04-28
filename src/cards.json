@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Batman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Night Wing",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/19/NightwingCover.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Super Boy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Superboy_%28Kon-El%29_2.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Donna Troy",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/DonnaTroy.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "The Flash",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Wally_West.jpeg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Kid Flash",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Kid_Flash_Bart.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "DeathStroke",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Deathstroke_textless_cover.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Joker",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Joker_%28DC_Comics_character%29.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Harleyquinn",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Harley_Quinn_Suicide_Squad_Vol_5_20.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Two-Face",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/78/Two-Face.jpg",
+      "count": 0
+    }
+  ]
