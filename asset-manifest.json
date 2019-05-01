@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theGame/static/css/main.1add54f2.chunk.css",
+    "main.js": "/theGame/static/js/main.46dd751d.chunk.js",
+    "main.js.map": "/theGame/static/js/main.46dd751d.chunk.js.map",
+    "runtime~main.js": "/theGame/static/js/runtime~main.019f1ab3.js",
+    "runtime~main.js.map": "/theGame/static/js/runtime~main.019f1ab3.js.map",
+    "static/js/2.884c28c3.chunk.js": "/theGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/theGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/theGame/index.html",
+    "precache-manifest.5abf00b70795524681f9f931d26136cd.js": "/theGame/precache-manifest.5abf00b70795524681f9f931d26136cd.js",
+    "service-worker.js": "/theGame/service-worker.js",
+    "static/css/main.1add54f2.chunk.css.map": "/theGame/static/css/main.1add54f2.chunk.css.map"
+  }
+}
